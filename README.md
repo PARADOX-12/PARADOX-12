@@ -51,6 +51,11 @@ Currently, I focus on improving system reliability, security awareness, and qual
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="32"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="32"/>
+<img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+<img  alt="image" src="https://github.com/user-attachments/assets/e07866b0-c470-4dd2-842f-a640c27a1f7c" height="32" />
+<img  alt="image" src="https://github.com/user-attachments/assets/4fd3e7ba-c54c-43e4-b552-d33b7e42aa32"  height="32" />
+
+
 
 </div>
 
