@@ -4,6 +4,9 @@ Backend Developer • Software Testing • API & System Reliability
 </h3>
 
 ---
+<div align="center">
+  <img height="150" src="https://i.redd.it/n8agw6z2smyb1.gif" />
+</div>
 
 <p align="center">
 I am a Computer Science graduate with hands-on experience in backend development, software testing, and API-driven systems.<br>
@@ -16,20 +19,10 @@ Currently, I focus on improving system reliability, security awareness, and qual
 ## 📊 GitHub Overview
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=PARADOX-12&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" 
-    height="160"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=PARADOX-12&layout=compact&langs_count=6&theme=dracula" 
-    height="160"
-  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PARADOX-12&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PARADOX-12&theme=dracula&hide_border=true&layout=compact" height="180" />
 </div>
-
----
----
-
-<img align="right" height="150" src="https://i.redd.it/n8agw6z2smyb1.gif"  />
 
 ---
 
