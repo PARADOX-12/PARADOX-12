@@ -27,6 +27,11 @@ Currently, I focus on improving system reliability, security awareness, and qual
 </div>
 
 ---
+---
+
+<img align="right" height="150" src="https://i.redd.it/n8agw6z2smyb1.gif"  />
+
+---
 
 ## 🛠 Tech Stack
 
