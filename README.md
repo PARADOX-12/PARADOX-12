@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sandeep Kumar</h1>
 <h3 align="center">
-Backend Developer • Software Testing • API & System Reliability
+Software Engineer • QA Engineer • Backend & API Development
 </h3>
 
 ---
