@@ -9,9 +9,7 @@ Backend Developer • Software Testing • API & System Reliability
 </div>
 
 <p align="center">
-I am a Computer Science graduate with hands-on experience in backend development, software testing, and API-driven systems.<br>
-I have worked on real-world projects involving REST APIs, authentication, databases, and test documentation.<br>
-Currently, I focus on improving system reliability, security awareness, and quality assurance through practical testing and continuous learning.
+Software QA professional with 2+ years of experience across software testing and application development, with hands-on expertise in manual, functional, regression, smoke, and end-to-end testing. Skilled in test case design, defect identification and lifecycle management, Jira, API testing with Postman, and Playwright automation. Experienced in validating application builds across staging and production environments and collaborating with developers to investigate issues and verify fixes. 
 </p>
 
 ---
