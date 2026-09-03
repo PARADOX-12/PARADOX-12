@@ -29,34 +29,57 @@ Software QA professional with 2+ years of experience across software testing and
 <div align="center">
 
 ### Languages & Core Technologies
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32"/>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32"/>
+</p>
+
+<p>
+  <b>JavaScript & TypeScript</b> for application development and test automation,
+  <b>Python</b> for backend development and API implementation,
+  and <b>HTML/CSS</b> for web interfaces and UI validation.
+</p>
 
 ### Backend & Databases
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="32"/>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="32"/>
+</p>
+
+<p>
+  Experience building <b>REST APIs, CRUD operations, authentication,
+  role-based access control, database workflows, and third-party API
+  integrations</b> using Express.js, Flask, MongoDB, PostgreSQL, and Firebase.
+</p>
 
 ### DevOps, Tools & QA
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="32"/>
-<img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
-<img  alt="image" src="https://github.com/user-attachments/assets/e07866b0-c470-4dd2-842f-a640c27a1f7c" height="32" />
-<img  alt="image" src="https://github.com/user-attachments/assets/4fd3e7ba-c54c-43e4-b552-d33b7e42aa32"  height="32" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="32"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="Postman"/>
+  <img alt="Playwright" src="https://github.com/user-attachments/assets/e07866b0-c470-4dd2-842f-a640c27a1f7c" height="32"/>
+  <img alt="GitHub" src="https://github.com/user-attachments/assets/4fd3e7ba-c54c-43e4-b552-d33b7e42aa32" height="32"/>
+</p>
 
-
+<p>
+  Hands-on experience with <b>manual testing, functional testing, regression
+  testing, API testing, test case design, defect tracking, retesting, and
+  Playwright automation</b>. Familiar with Jira, Postman, Git, Bitbucket,
+  Docker, Linux, and GitHub for development, testing, version control, and
+  project workflows.
+</p>
 
 </div>
-
 ---
 
 ## 📌 What I’m Currently Working On
